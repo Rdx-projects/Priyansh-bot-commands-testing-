@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Your-Father",
-    "PREFIX": "/",
+    "BOTNAME": "𝚉𝙰𝙸𝙽 𝙺𝙰 𝙱𝙾𝚃 𝙷𝚄 🤖👾",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100037743553265"
+        "100086033644262"
     ],
     "NDH": [
-        "100037743553265"
+        "100086033644262"
     ],
     "DATABASE": {
         "sqlite": {
