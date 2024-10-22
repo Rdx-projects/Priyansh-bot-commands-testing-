@@ -5,7 +5,7 @@ module.exports.config = {
 	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
 	description: "redroom vids",
 	commandCategory: "Not For Kids",
-	usages: "",
+	usages: "pron",
 	cooldowns: 30,
 };
 
